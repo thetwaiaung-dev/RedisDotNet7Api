@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RedisDotNet7API.props" />
+</Project>

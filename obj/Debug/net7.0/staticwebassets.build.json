@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kSL7VYZ3zimZqgV3fPBeg67BNFM3bppQl2ViDkcVohI=",
+  "Source": "RedisDotNet7API",
+  "BasePath": "_content/RedisDotNet7API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
